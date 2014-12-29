@@ -1,10 +1,10 @@
 # Site settings
-title: 죽이되든 밥이되
+title: 죽이되든 밥이되든
 email: blacktmt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm testing the Jekyll blog.
   I'm not a programer
-  It's not that easy to do this, step by step
+  It's not that easy to do this. I'm doing just step by step, very slowly.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://emotionmate.github.io" # the base hostname & protocol for your site
 twitter_username: blacktmt
